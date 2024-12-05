@@ -14,7 +14,7 @@ public class JuegoAhorcado {
                       1: MODO DOS JUGADORES
                       2: JUGAR CONTRA LA MÁQUINA
                       3: INSTRUCCIONES
-                      4: SALIR
+                      4: EXIT
                       """;
 
         int opcion = 0;
